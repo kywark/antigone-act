@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-06-25T18:51:12.693Z",
+  "created_by": "kywark",
+  "title": "Test R",
+  "slug": "test-r",
+  "updated_at": "2026-06-25T18:51:12.693Z",
+  "updated_by": "kywark",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "de5c996e-3d54-482b-bbfc-539a8c0b04ae"
+  }
+}

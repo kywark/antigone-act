@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "2aa2052b-7935-4a78-b87b-61626fc83d6d": {
+      "label": "Test R",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://drive.google.com/file/d/1-IQROMbIB3hMjGeAYFtTDFTxLW1ppChc/view?usp=sharing",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Test R",
+  "av_file_order": [
+    "2aa2052b-7935-4a78-b87b-61626fc83d6d"
+  ],
+  "created_at": "2026-06-25T18:51:12.479Z",
+  "created_by": "kywark",
+  "updated_at": "2026-06-25T18:51:12.479Z",
+  "updated_by": "kywark"
+}
